@@ -1,0 +1,24 @@
+//write a blog about objct and array and its internal representaion in java script//
+
+OBJECT:
+ 
+ //key value pair to store  data.
+ //object-{}
+ //data accessed by key name.
+   
+   eg..
+   let obj={name:raja,height:5.5};
+    
+    // if accessed height
+    to do..
+    obj.('height')
+
+ ARRAYS:
+
+ //sequential storage.
+ // data can be accessed based on index.
+ //arrays-[]
+ // index start to 0,1,2,3,..
+
+ eg..
+ console.log ([1,2,3,4,5])
